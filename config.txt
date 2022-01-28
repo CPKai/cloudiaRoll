@@ -1,0 +1,14 @@
+Ark_KadinaGreat,100
+Ark_Pirate,10
+Ark_Sandwyrm,10
+Ark_Skyship,10
+Ark_ForeignLand,10
+Ark_IcyGuardian,10
+Ark_SwordCorpses,10
+Char_ThundSevia,10
+Char_IceSevia,0
+PassingScore,120
+ScreenWidth,1920
+ScreenLength,1080
+Tolerance,0.4
+Tolerance_2,0.3
